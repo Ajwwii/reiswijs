@@ -1,0 +1,15 @@
+From,To,Hours
+Kochi,Thiruvananthapuram,4.5
+Thiruvananthapuram,Kochi,4.5
+Kochi,Munnar,4
+Munnar,Kochi,4
+Munnar,Alleppey,5
+Alleppey,Munnar,5
+Alleppey,Varkala,3.5
+Varkala,Alleppey,3.5
+Kochi,Thekkady,4.5
+Thekkady,Kochi,4.5
+Munnar,Thekkady,3
+Thekkady,Munnar,3
+Alleppey,Kochi,1.5
+Kochi,Alleppey,1.5
